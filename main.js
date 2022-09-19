@@ -123,7 +123,7 @@ function objectReset() {
 			swordEnchant: this.damage * this.swordEnchantVal,
 			camp: false,
 			power: 1,
-			gears: 1,
+			gears: 3000000,
 			batteries: 0,
 			money: 0,
 			gunk: 0,
